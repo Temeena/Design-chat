@@ -847,6 +847,16 @@
         width: 100%;
         height: auto;
     }
+    .box-1-2{
+        width: 220px;
+        height: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .box-1-2 p{
+        display: none;
+    }
     .container-right{
         width: 100%;
         height: auto;
